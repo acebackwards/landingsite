@@ -42,11 +42,15 @@ header {
 }
 
 .head-links a:not(:last-child) {
-	padding-right: 145px;
+	padding-right: 140px;
 }
 
 .head-links a:first-child {
 	color: #070707;
+}
+
+.head-links a:last-child {
+	margin-right: -5px;
 }
 
 .DN-main {
