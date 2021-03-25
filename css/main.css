@@ -183,7 +183,7 @@ header {
 }
 
 .contacts-icons a:not(:last-child) {
-	padding-right: 61px;
+	margin-right: 61px;
 }
 
 footer p:last-child {
